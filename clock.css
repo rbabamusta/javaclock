@@ -1,0 +1,17 @@
+
+#clock {
+  position: relative;
+  vertical-align: center;
+  text-align: center;
+  font-size: 90px;
+  font-family: Geneva;
+  color: #808080;
+
+}  
+
+#background {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  vertical-align: center;
+}
